@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 import javax.swing.JOptionPane;
 
-public class SeansAddvancedArray
+public class SeansAdvancedArrays
 {
 	public static void main(String[] args) {
 		String[] sean = new String[] {"0", "1", "2", "3"};
